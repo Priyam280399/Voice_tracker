@@ -1,0 +1,4 @@
+html, body, #root { height: 100%; margin: 0; font-family: Arial, sans-serif; }
+body { background: #f7fafc; }
+.container { max-width: 900px; margin: 24px auto; background: white; padding: 16px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+button { cursor: pointer; }
